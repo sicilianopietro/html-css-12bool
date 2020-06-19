@@ -1,0 +1,10 @@
+[class^="col-"] {
+    height: 150px;
+    border: 1px solid black;
+    background-color: pink;
+}
+
+.row {
+    text-align: center;
+    line-height: 150px;
+}
